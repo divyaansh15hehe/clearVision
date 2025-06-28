@@ -1,0 +1,3 @@
+https://1drv.ms/u/c/953d9f1b461299a9/EQl7vAGlXgpGgeKz90LfoWwBWwmPhTspByItDxs6INmkLg?e=p9miIX|
+
+Download the trained model from here and put it in the models folder.
