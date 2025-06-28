@@ -72,7 +72,7 @@ The evaluation script computes:
 
 ---
 
-## 🔧 Notes
+##  Notes
 
 * Currently focused on **blur** and **Gaussian noise** restoration tasks
 * Designed for **256x256 images**, adjust `transforms.Resize()` if working with other sizes
