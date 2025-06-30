@@ -8,7 +8,6 @@ This repository provides:
 * ✅ Easy dataset replacement to train on your own images
 
 ---
-
 ##  Repository Structure
 
 ```
