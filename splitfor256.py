@@ -2,11 +2,11 @@ from PIL import Image
 import os
 
 # --- Config ---
-input_path = "gan_results/clean_epoch10.png"  # Change as needed
+input_path = "gan_results/clean_epoch10.png" 
 output_dir = "gan_split/clean256"
-prefix = "clean10"  # Short for "generated_epoch10"
-grid_size = 4  # 4x4 grid
-tile_size = 256  # each tile is 256x256
+prefix = "clean10" 
+grid_size = 4 
+tile_size = 256 
 
 os.makedirs(output_dir, exist_ok=True)
 
